@@ -1,0 +1,11 @@
+/* print all numbers from 1 to 10 using a loop */
+#include<iostream>
+using namespace std;
+int main(){
+    
+    for(int i=0;i<=10;i++)
+    {
+       cout<<i<<endl;
+    }
+    return 0;
+}
