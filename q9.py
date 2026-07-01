@@ -1,0 +1,1 @@
+calculate and print the factorial of a given number

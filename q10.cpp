@@ -1,0 +1,1 @@
+find and print theproduct of all digits of a given number 

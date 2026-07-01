@@ -1,0 +1,1 @@
+calculate the sum of all odd numbers from 1 up to n
