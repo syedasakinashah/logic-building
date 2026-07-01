@@ -1,0 +1,1 @@
+calculate and print the sum of the first n natural numbes.
